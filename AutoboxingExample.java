@@ -22,3 +22,6 @@ sum += num;
 return sum;
 }
 }
+
+// output:
+// The sum of the numbers is: 200
