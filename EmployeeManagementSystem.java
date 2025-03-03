@@ -92,3 +92,29 @@ System.out.println("Invalid choice! Please try again.");
 }
 }
 }
+
+// output:
+// Employee Management System
+// 1. Add an Employee
+// 2. Display All Employees
+// 3. Exit
+// Enter your choice: 1
+// Enter Employee ID: 10366
+// Enter Employee Name: Deepak Yadav
+// Enter Designation: student
+// Enter Salary: 50000
+// Employee added successfully!
+
+// Employee Management System
+// 1. Add an Employee
+// 2. Display All Employees
+// 3. Exit
+// Enter your choice: 2
+// Employee ID: 10366, Name: Deepak Yadav, Designation: student, Salary: 50000.0
+
+// Employee Management System
+// 1. Add an Employee
+// 2. Display All Employees
+// 3. Exit
+// Enter your choice: 3
+// Exiting...
